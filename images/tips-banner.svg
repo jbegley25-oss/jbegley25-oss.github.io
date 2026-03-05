@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <rect width="400" height="120" fill="#1a1a2e" rx="8"/>
+  <circle cx="60" cy="60" r="30" fill="#FFD43B" opacity="0.9"/>
+  <text x="60" y="67" font-family="Arial" font-size="28" fill="#1a1a2e"
+        text-anchor="middle" dominant-baseline="middle">💡</text>
+  <text x="230" y="48" font-family="Arial, sans-serif" font-size="22" font-weight="bold"
+        fill="#FFD43B" text-anchor="middle">Python Tips</text>
+  <text x="230" y="76" font-family="Arial, sans-serif" font-size="13"
+        fill="#e0e0e0" text-anchor="middle">Write better code every day</text>
+</svg>
